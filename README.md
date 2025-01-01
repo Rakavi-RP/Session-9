@@ -35,7 +35,7 @@ ResNet50 is a deep residual network that consists of 50 layers. It is designed t
 -**Learning Rate Finder**: Used to determine the optimal learning rate before training.
 
 ## Logs
-Refer to the training logs here: [logs.md](path/to/logs.md).
+Refer logs.md
 
 ## Hugging Face Details
 - The model is deployed on Hugging Face Spaces for easy access and inference.
